@@ -6,6 +6,8 @@
 
 # Overview of the Project
 ## Project: Resume Scanner Using Natural Language processing
+![My Image](https://github.com/Abhishek7325/CODTECH-TASK1/blob/main/image.png)
+
 ## Objective
 This project objective to create a simple yet effective resume scanner that compares a candidate's resume against a job description using Natural Language Processing (NLP) techniques. The purpose is to determine how closely a resume matches a given job description, aiding both job seekers and recruiters in the hiring process.
 
